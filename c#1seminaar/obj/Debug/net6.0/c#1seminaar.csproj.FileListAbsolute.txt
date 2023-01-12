@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\bin\Debug\net6.0\c#1seminaar.exe
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\bin\Debug\net6.0\c#1seminaar.deps.json
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\bin\Debug\net6.0\c#1seminaar.runtimeconfig.json
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\bin\Debug\net6.0\c#1seminaar.dll
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\bin\Debug\net6.0\c#1seminaar.pdb
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.AssemblyInfo.cs
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.dll
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\refint\c#1seminaar.dll
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.pdb
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\c#1seminaar.genruntimeconfig.cache
+C:\Users\admin\Desktop\C#Zadachi\c#1seminaar\obj\Debug\net6.0\ref\c#1seminaar.dll
